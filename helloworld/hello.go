@@ -1,7 +1,5 @@
 package helloworld
 
-import "fmt"
-
 const englishHelloPrefix = "Hello"
 
 func makeMap() map[string]string {
@@ -33,7 +31,7 @@ func Hello(name, language string) string {
 	return greetingPrefix(language) + " " + name
 }
 
-func main() {
-	name := "Eddie"
-	fmt.Println(Hello(name, "Spanish"))
-}
+//func main() {
+//	name := "Eddie"
+//	fmt.Println(Hello(name, "Spanish"))
+//}

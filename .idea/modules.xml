@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/go-with-tests.iml" filepath="$PROJECT_DIR$/go-with-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sync/sync.iml" filepath="$PROJECT_DIR$/sync/sync.iml" />
     </modules>
   </component>
 </project>
